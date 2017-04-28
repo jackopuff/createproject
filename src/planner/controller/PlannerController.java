@@ -148,7 +148,7 @@ System.out.println(month[userInput] + " " + year +"\n\nS M T W T F S");
 for(int i = 0; i < startMonth; i++)
 {
 
-System.out.print(" ");
+System.out.print("   ");
 }
 
 
